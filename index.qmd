@@ -1,6 +1,6 @@
 ---
-title: "Sample Report - Data Science Capstone"
-author: "Student name"
+title: "Random Forest - Data Science Capstone"
+authors: "Sierra Landacre, Pamela Mishaw, Pallak Singh, and Tim Leschke"
 date: '`r Sys.Date()`'
 format:
   html:
@@ -71,7 +71,7 @@ A study was conducted to determine how...
 # loading packages 
 library(tidyverse)
 library(knitr)
-library(ggthemes)
+#library(ggthemes)
 library(ggrepel)
 library(dslabs)
 ```
