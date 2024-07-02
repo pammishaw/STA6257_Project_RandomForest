@@ -1,6 +1,6 @@
 ---
 title: "Random Forest - Data Science Capstone"
-authors: "Sierra Landacre, Pamela Mishaw, Pallak Singh, and Tim Leschke"
+authors: "Sierra Landacre, Pamela Mishaw, Pallak Singh, and Tim Leschke II"
 date: '`r Sys.Date()`'
 format:
   html:
